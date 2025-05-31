@@ -1,19 +1,23 @@
-# 👋 Hey, I'm Max!
+# 👋Welcome! I'm Max, a creator who blends code, art, and chaos.🚀
 
 🎨 **Blender Artist** | 🎮 **Flappy Bird Tinkerer** | 🛠️ **AchtPi Creator**  
 
-I create, break, and rebuild things in unexpected ways. Here's some of my work:
+
 
 ---
 
-## 🖼️ Blender Art Showcase
-Check out some of my 3D renders!  
-![blueiocool](https://github.com/user-attachments/assets/78579005-ca7d-4882-b9e8-8c4c85d64e8f)
+## 🎨 Blender Art Showcase
+I do Blender graphics: 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcc3d185-443f-4713-bfc0-017dbcf02844" width="325" style="border-radius:15px;">
+  <img src="https://github.com/user-attachments/assets/433c3979-6ff9-438a-81a0-3387b9698a19" width="325" style="border-radius:15px;">
+  <img src="https://github.com/user-attachments/assets/0838a61b-c328-4cb4-8cf0-0585d13f9dad" width="325" style="border-radius:15px;">
+  
+ 
 
-![Blender Render](https://your-image-link.jpg)  
-🔥 *"[Cool description] of the piece."*  
+</p>
 
-🔗 **[See More](https://github.com/YourBlenderRepo)**
+
 
 ---
 
